@@ -1,7 +1,23 @@
 {
   "gallery_name": "Gallery1",
   "photos": [
-
+    {
+      "name": "Anushka",
+      "file_name": "Anushka",
+      "file_type": "image/jpeg",
+      "url": "https://s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/32_499_927/media/2017-10-26-060141/Anushka.jpeg",
+      "date_added": "Anushka",
+      "tags": "",
+      "file_size": "10081",
+      "width": "246",
+      "height": "205",
+      "description": "",
+      "url_large": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/32_499_927/media/2017-10-26-060141/large_Anushka.jpeg",
+      "url_medium": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/32_499_927/media/2017-10-26-060141/medium_Anushka.jpeg",
+      "url_small": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/32_499_927/media/2017-10-26-060141/small_Anushka.jpeg",
+      "url_xsmall": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/32_499_927/media/2017-10-26-060141/xsmall_Anushka.jpeg",
+      "url_thumb": "//s3.amazonaws.com/cdn.dev-traveltripper.info/site-assets/32_499_927/media/2017-10-26-060141/thumb_Anushka.jpeg"
+    }
   ],
   "gallery_description": "",
   "other_meta_data": ""
